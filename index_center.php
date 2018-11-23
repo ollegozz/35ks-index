@@ -360,4 +360,4 @@
 		"SORT_ORDER2" => "ASC",
 		"STRICT_SECTION_CHECK" => "N"
 	)
-);?><br>
+);?>
